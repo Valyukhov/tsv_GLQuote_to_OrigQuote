@@ -1,0 +1,16 @@
+{
+  "name": "tsv-orig-quote",
+  "version": "1.0.0",
+  "description": "Converter gl quote to orig quote",
+  "main": "index.js",
+  "author": "valyukhov <alexzed@bk.ru>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@texttree/tn-quote": "^0.3.0",
+    "uw-quote-helpers": "^1.0.0"
+  }
+}
